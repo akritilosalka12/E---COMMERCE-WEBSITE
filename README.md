@@ -29,6 +29,4 @@ The code ensures a smooth interactive shopping experience for users. 🚀
 
 
 
-Search
 
-Reason
